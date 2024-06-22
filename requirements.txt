@@ -1,0 +1,8 @@
+numpy==1.24.1
+jupyter
+torch
+datasets
+transformers
+accelerate
+torchvision
+matplotlib
